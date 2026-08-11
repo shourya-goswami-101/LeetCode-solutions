@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

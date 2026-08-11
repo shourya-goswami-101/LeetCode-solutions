@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +39,16 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

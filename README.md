@@ -11,6 +11,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

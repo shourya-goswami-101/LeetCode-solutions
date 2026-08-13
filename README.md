@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -76,4 +77,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |

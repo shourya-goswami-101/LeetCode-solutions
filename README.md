@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0912-sort-an-array) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0069-sqrtx) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shourya-goswami-101/LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
